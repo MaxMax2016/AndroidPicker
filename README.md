@@ -7,8 +7,8 @@
 状态|链接|备注
 -----|------|----
 ~~Deprecated~~|[~~Branch_OldAndroidPicker~~](https://github.com/gzu-liyujiang/AndroidPicker/tree/Branch_OldAndroidPicker)|~~基于android-wheel的旧版选择器，不再维护~~；
-Dev|[dev](https://github.com/gzu-liyujiang/AndroidPicker/tree/dev)|WheelPicker、ColorPicker及FilePicker合并为一个模块来开发；
-**New**|[master](https://github.com/gzu-liyujiang/AndroidPicker/tree/master)|主分支，WheelPicker、ColorPicker及FilePicker分为三个模块。
+*Develop*|[dev](https://github.com/gzu-liyujiang/AndroidPicker/tree/dev)|WheelPicker、ColorPicker及FilePicker合并为一个模块来开发；
+**Release**|[master](https://github.com/gzu-liyujiang/AndroidPicker/tree/master)|主分支，WheelPicker、ColorPicker及FilePicker分为三个模块。
 
 # Change Log   
 ##### v1.1.0 - 2016.01.29

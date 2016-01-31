@@ -6,24 +6,24 @@
 
 状态|链接|备注
 -----|------|----
-Deprecated|[~~Branch_OldAndroidPicker~~](https://github.com/gzu-liyujiang/AndroidPicker/tree/Branch_OldAndroidPicker)|基于android-wheel的旧版选择器，不再维护；
-Dev|[Branch_MultiPart](https://github.com/gzu-liyujiang/AndroidPicker/tree/Branch_MultiPart)|WheelPicker、ColorPicker及FilePicker是分为三个模块来开发；
-**New**|[master](https://github.com/gzu-liyujiang/AndroidPicker/tree/master)|最新分支，WheelPicker、ColorPicker及FilePicker合并为一个模块。
+~~Deprecated~~|[~~Branch_OldAndroidPicker~~](https://github.com/gzu-liyujiang/AndroidPicker/tree/Branch_OldAndroidPicker)|~~基于android-wheel的旧版选择器，不再维护~~；
+Dev|[dev](https://github.com/gzu-liyujiang/AndroidPicker/tree/dev)|WheelPicker、ColorPicker及FilePicker合并为一个模块来开发；
+**New**|[master](https://github.com/gzu-liyujiang/AndroidPicker/tree/master)|主分支，WheelPicker、ColorPicker及FilePicker分为三个模块。
 
 # Change Log   
-- v1.1.0 - 2016.01.29
+##### v1.1.0 - 2016.01.29
 + 添加注解约束，如“setOffset()”只能是1至4；
 + 所有枚举类改为常量来表示，据说这样可以节约内存；
 + 支持自定义选择器的顶部及底部的视图；
 + 支持使用第三方动画库来实现窗口动画；   
-- v1.0.3 - 2016.01.19
+##### v1.0.3 - 2016.01.19
 + 日期时间、地址、单项、数字等选择器支持伪循环滚动。   
-- v1.0.2 - 2016.01.15
+##### v1.0.2 - 2016.01.15
 + 年或月变动时，保持之前选择的日不动：如果之前选择的日是之前年月的最大日，则日自动为该年月的最大日。   
-- v1.0.1 - 2016.01.14
+##### v1.0.1 - 2016.01.14
 + 精简文件选择器的数据适配器；
 + 添加选择器顶部确定、取消按钮所在容器的背景色设置。   
-- v1.0.0 - 2016.01.13
+##### v1.0.0 - 2016.01.13
 + 发布到jcenter，支持远程maven依赖。   
 
 # Install
